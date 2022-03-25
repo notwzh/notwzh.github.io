@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "notwzh.itch",
+    "sha256_cert_fingerprints":
+    ["FC:81:1D:28:AC:48:41:6F:5C:52:8A:91:ED:B6:62:65:F8:23:EE:3C:A9:4A:6E:FC:CF:2B:6E:48:1E:51:D9:6A"]
+  }
+}]
+
